@@ -1,5 +1,45 @@
-| VÖ         | Artist                  | Album                      | Genre                   | Links                                                             | Text                                                                                                                     | Rezi |
-| ---------- | ----------------------- | -------------------------- | ----------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- |
-| 03.08.2018 | The Eye of Time         | MYTH II: A Need To Survive | Ambient / Neoklassik    | https://theeyeoftime.bandcamp.com/album/myth-ii-a-need-to-survive |                                                                                                                          |      |
-| 03.08.2018 | Ángel Ontalva & VESPERO | Sea Orm Liventure          | Psychedelic / Spacerock | https://music.vespero.ru/album/sea-orm-liventure                  | Live-Versionen, größtenteils mit den Tracks vom Carta Marina Alnum. War mal die Bonus-CD der Carta Marina Deluxe Edition |      |
-|            |                         |                            |                         |                                                                   |                                                                                                                          |      |
+- Artist: Gargle
+  Album: Wading in Shallow Waters
+  Release: 03.08.2018
+  Genre: Post-Rock / Neoklassik
+  Notes: 
+  Rating: 9
+  Links: https://gargle-music.bandcamp.com/
+  Reviews: 
+
+- Artist: Magdalena Gornik
+  Album: Dream Sequence Collapse
+  Release: 03.08.2018
+  Genre: Postrock
+  Notes: NYP
+  Rating: 11
+  Links: https://magdalena.bandcamp.com/album/dream-sequence-collapse
+  Reviews: 
+
+- Artist: The Eye of Time
+  Album: "MYTH II: A Need To Survive"
+  Release: 03.08.2018
+  Genre: Ambient / Neoklassik
+  Notes: 
+  Rating: 
+  Links: https://theeyeoftime.bandcamp.com/album/myth-ii-a-need-to-survive
+  Reviews: 
+
+- Artist: Ángel Ontalva & VESPERO
+  Album: Sea Orm Liventure
+  Release: 03.08.2018
+  Genre: Psychedelic / Spacerock
+  Notes: Live-Versionen, größtenteils mit den Tracks vom Carta Marina Alnum. War mal die Bonus-CD der Carta Marina Deluxe Edition
+  Rating: 12
+  Links: https://music.vespero.ru/album/sea-orm-liventure
+  Reviews: 
+
+- Artist: Tides Of Man
+  Album: Every Nothing
+  Release: 03.08.2018
+  Genre: Postrock
+  Notes: 
+  Rating: 
+  Links: https://tidesofman.bandcamp.com/album/every-nothing
+  Reviews: 
+
