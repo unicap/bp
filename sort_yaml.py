@@ -13,7 +13,7 @@ with open(filename) as f:
     s = f.read()
 
 albums = yaml.load(s)
-albums = sorted(albums, key=lambda x: x["Release"])
+albums = sorted(albums, key=lambda x: x["Release"] + x["Artist"])
 
 s = yaml.dump(albums, default_flow_style=False, explicit_start=True, allow_unicode=True)
 s = s.replace("\n- ", "\n\n- ")
