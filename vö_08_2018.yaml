@@ -427,7 +427,9 @@
 - Album: 'KIN: Original Motion Picture Soundtrack'
   Artist: Mogwai
   Genre: Postrock / Ambient
-  Links: http://www.mogwai.co.uk/
+  Links:
+    - http://www.mogwai.co.uk/
+    - https://temporaryresidence.bandcamp.com/album/kin
   Notes: Neuer Soundtrack von den schottischen Postrockern
   Rating:
   Release: 31.08.2018
