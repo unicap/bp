@@ -5,20 +5,19 @@ import subprocess
 import os
 import sys
 import shlex
+import yaml
 
 filename = sys.argv[1]
-tablestr = ""
+
+filename = sys.argv[1]
 
 with open(filename) as f:
-    tablestr = f.read()
+    albums = yaml.load(f)
 
-tablestr = tablestr.strip()
-
-# split to lines, skip header
-lines = tablestr.split("\n")[2:]
+albums = sorted(albums, key=lambda x: x["Release"])
 
 # Get month, year and create directory name
-datestr, artist, album, genre, links, txt, review = [x.strip() for x in lines[0].split("|")][1:-1]
+datestr = albums[0]["Release"]
 date = datetime.strptime(datestr, "%d.%m.%Y")
 month = date.strftime("%B")
 dirname = month + "_" + str(date.year)
@@ -26,12 +25,18 @@ dirname = month + "_" + str(date.year)
 if not os.path.exists(dirname):
     os.mkdir(dirname)
 
-for line in lines:
-    try:
-        datestr, artist, album, genre, links, txt, review = [x.strip() for x in line.split("|")][1:-1]
-    except ValueError:
-        print("Error parsing: ", line)
-        print(line.split("|"))
+for a in albums:
+    artist = a["Artist"]
+    album = a["Album"]
+    destpath = os.path.join(dirname, shlex.quote(album)+".jpg")
+
+    if os.path.exists(destpath):
+        continue
 
     print("Processing "+ album)
-    subprocess.run(["sacad", artist, album, "600", os.path.join(dirname, shlex.quote(album)+".jpg")])
+    try:
+        subprocess.run(["sacad", artist, album, "600", destpath])
+    except TypeError as e:
+        print("Error:",e)
+        print("artist:", artist)
+        print("album:", album)
