@@ -1,441 +1,455 @@
 ---
-- Artist: Gargle
-  Album: Wading in Shallow Waters
-  Release: 03.08.2018
-  Genre: Post-Rock / Neoklassik
-  Notes:
-  Rating: 9
-  Links: https://gargle-music.bandcamp.com/
-  Reviews: http://www.babyblaue-seiten.de/album_17532.html
 
-- Artist: Magdalena Gornik
-  Album: Dream Sequence Collapse
-  Release: 03.08.2018
-  Genre: Postrock
-  Notes: Gitarrenlastiger, instrumentaler Postrock. Name Your Price.
-  Rating: 11
-  Links: https://magdalena.bandcamp.com/album/dream-sequence-collapse
-  Reviews:
-
-- Artist: The Eye of Time
-  Album: "MYTH II: A Need To Survive"
-  Release: 03.08.2018
-  Genre: Ambient / Neoklassik
-  Notes: Zweiter Teil der geplanten "Myth"-Triologie des Franzosen Marc Euvrie.
-  Rating:
-  Links: https://theeyeoftime.bandcamp.com/album/myth-ii-a-need-to-survive
-  Reviews:
-
-- Artist: Ángel Ontalva & VESPERO
-  Album: Sea Orm Liventure
-  Release: 03.08.2018
-  Genre: Psychedelic / Spacerock
-  Notes: Live-Versionen, größtenteils mit den Tracks vom Carta Marina Alnum.
-         War mal die Bonus-CD der Carta Marina Deluxe Edition
-  Rating: 12
-  Links: https://music.vespero.ru/album/sea-orm-liventure
-  Reviews:
-
-- Artist: Tides Of Man
-  Album: Every Nothing
-  Release: 03.08.2018
-  Genre: Postrock
-  Notes: Verträumter instrumentaler Postrock.
-  Rating:
-  Links: https://tidesofman.bandcamp.com/album/every-nothing
-  Reviews:
-
-- Artist: Empusae
-  Album: Uzupis
-  Release: 05.08.2018
-  Genre: Post-Industrial
-  Notes: "An interpretation of Sieben's song Uzupis, from Lietuva EP (2015).
-          vgl. https:sieben.bandcamp.com/album/lietuva-ep-2015"
-  Rating:
-  Links: ["https://empusae.bandcamp.com/track/uzupis",
-          "https://facebook.com/empusaemusic"]
-  Reviews:
-
-- Artist: Gespenst
-  Album: OBLIVION
-  Release: 04.08.2018
-  Genre: Postrock
-  Notes: Instrumentaler Postrock / Postmetal aus Malaysia.
-  Rating: 9
-  Links: https://gespenst.bandcamp.com/album/oblivion
-  Reviews:
-
-- Artist: Pray for Sound
-  Album: Waiting Room
-  Release: 10.08.2018
-  Genre: Postrock
-  Notes: Ruhiger Soundscape-Postrock.
-  Rating:
-  Links: https://music.prayforsound.com/album/waiting-room
-  Reviews:
-
-- Artist: Stillness and Stars
-  Album: Stillness and Stars
-  Release: 02.08.2018
-  Genre: Experimental / Postrock
-  Notes: Fetter, improvisierter Instrumentalrock.
-  Rating:
-  Links: https://stillnessandstars.bandcamp.com/album/stillness-and-stars
-  Reviews:
-
-- Artist: Infatuation
-  Album: Worldview
-  Release: 05.08.2018
-  Genre: Ambient / Drone
-  Notes: Ruhiges, leicht verstörend trippiges Ambient Drone Album.
-  Rating:
-  Links: https://infatuation.bandcamp.com/album/worldview
-  Reviews:
-
-- Artist: Manticora
-  Album: To Kill to Live to Kill
-  Release: 03.08.2018
-  Genre: Powermetal / Progmetal
-  Notes:
-  Rating:
-  Links: https://vicisolumrecords.com/album/to-kill-to-live-to-kill
-  Reviews:
-
-- Artist: Encircled
-  Album: The Universal Mirth
-  Release: 04.08.2018
-  Genre: Postrock / Art-Pop
-  Notes: Etwas eigentümliche Postrock / Artpop Mischung aus Schottland.
-  Rating:
-  Links: https://encircled.bandcamp.com/album/the-universal-mirth
-  Reviews:
-
-- Artist: Zevious
-  Album: Lowlands
-  Release: 17.08.2018
-  Genre: Avant-Metal
-  Notes: Schräger Genremix aus Math, Postrock, Jazz, Doom...
-  Rating:
-  Links: https://zevious.bandcamp.com/album/lowlands
-  Reviews:
-
-- Artist: Gryphon
-  Album: ReInvention
-  Release: 17.08.2018
-  Genre: Prog
-  Notes:
-  Rating:
-  Links: http://www.thegryphonpages.com/
-  Reviews: http://www.babyblaue-seiten.de/album_17554.html
-
-- Artist: Karcius
-  Album: The Fold
-  Release: 18.08.2018
-  Genre: Prog
-  Notes:
-  Rating:
-  Links: http://www.karcius.com/
-  Reviews: https://www.betreutesproggen.de/2018/08/karcius-the-fold/
-
-- Artist: Lux Terminus
-  Album: The Courage to Be
-  Release: 24.08.2018
-  Genre: Progmetal Fusion
-  Notes: Klavierlastiger Progmetal.
-         Ein Track mit Gastsängerin Anneke van Giersbergen
-  Rating:
-  Links: ["https://luxterminus.bandcamp.com/releases",
-          "https://www.facebook.com/LuxTerminus/"]
-  Reviews:
-
-- Artist: R-U Kaiser
-  Album: Desde la Oscuridad
-  Release: 25.08.2018
-  Genre: Prog / Spaceprog
-  Notes: Symphonischer Prog aus Chile
-  Rating:
-  Links: [ "https://r-ukaiser.bandcamp.com/track/desde-la-oscuridad", "http://www.r-ukaiser.cl/"]
-  Reviews:
-
-- Artist: ifsounds
-  Album: An Gorta Mór
-  Release: 27.08.2018
-  Genre: Prog
-  Notes: Prog-Konzeptalbum aus Italien über die Hungersnot in Irland
-  Rating:
-  Links: https://ifsounds.bandcamp.com/album/an-gorta-m-r
-  Reviews:
-
-- Artist: Echoes of Giants
-  Album: The Way to Us
-  Release: 30.08.2018
-  Genre: Prog
-  Notes:
-  Rating:
-  Links: https://echoesofgiants.bandcamp.com/album/the-way-to-us
-  Reviews:
-
-- Artist: The Pineapple Thief
-  Album: Dissolution
-  Release: 31.08.2018
-  Genre: Prog
-  Notes:
-  Rating:
-  Links: http://pineapplethief.com/
-  Reviews: https://www.betreutesproggen.de/2018/08/the-pineapple-thief-dissolution/
-
-- Artist: Mogwai
-  Album: "KIN: Original Motion Picture Soundtrack"
-  Release: 31.08.2018
-  Genre: Postrock / Ambient
-  Notes: Neuer Soundtrack von den schottischen Postrockern
-  Rating:
-  Links: http://www.mogwai.co.uk/
-  Reviews:
-
-- Artist: Delta Sleep
-  Album: Ghost Sleep
-  Release: 10.08.2018
-  Genre: Mathrock / Alternative
-  Notes:
-  Rating:
-  Links: https://deltasleep.bandcamp.com/album/ghost-city
-  Reviews:
-
-- Artist: 3.2
-  Album: The Rules Have Changed
-  Release: 10.08.2018
-  Genre: Prog
-  Notes:
-  Rating:
-  Links: http://www.robertberry.com/
-  Reviews: http://www.babyblaue-seiten.de/album_17511.html
-
-- Artist: inFictions
-  Album: Vanity Project
-  Release: 06.08.2018
-  Genre: Prog
-  Notes:
-  Rating:
-  Links: https://infictions.bandcamp.com/album/vanity-project
-  Reviews:
-
-- Artist: After Nations
-  Album: Consteleid
-  Release: 01.08.2018
+- Album: Consteleid
+  Artist: After Nations
   Genre: Progmetal
+  Links: https://afternations.bandcamp.com/album/consteleid
   Notes: Instrumentalrock mit Anleihen an The Mars Volta
   Rating:
-  Links: https://afternations.bandcamp.com/album/consteleid
+  Release: 01.08.2018
   Reviews:
 
-- Artist: El Ten Eleven
-  Album: Banker's Hill
-  Release: 10.08.2018
-  Genre: Instrumental Rock / Math Rock / Post Rock
+- Album: Stillness and Stars
+  Artist: Stillness and Stars
+  Genre: Experimental / Postrock
+  Links: https://stillnessandstars.bandcamp.com/album/stillness-and-stars
+  Notes: Fetter, improvisierter Instrumentalrock.
+  Rating:
+  Release: 02.08.2018
+  Reviews:
+
+- Album: Wading in Shallow Waters
+  Artist: Gargle
+  Genre: Post-Rock / Neoklassik
+  Links: https://gargle-music.bandcamp.com/
   Notes:
-  Rating:
-  Links: https://fakerecordlabel.bandcamp.com/album/bankers-hill
-  Reviews:
-
-- Artist: N-1
-  Album: Voyeur aus dem Off
-  Release: 18.08.2018
-  Genre: Krautrock / Improv
-  Notes:
-  Rating:
-  Links: https://nminus1.bandcamp.com/album/voyeur-aus-dem-off
-  Reviews:
-
-- Artist: So Far As I Know
-  Album: "Fragments: Disclosure"
-  Release: 18.08.2018
-  Genre: Instrumental Worldprog / Postrock
-  Notes: Ganz wunderbares Instrumentalrockalbum. Name Your Price
-  Rating:
-  Links: https://sofarasiknow.bandcamp.com/album/fragments-disclosure
-  Reviews:
-
-- Artist: Central Park
-  Album: At the Burial Vault
+  Rating: 9
   Release: 03.08.2018
-  Genre: Prog
+  Reviews: http://www.babyblaue-seiten.de/album_17532.html
+
+- Album: Dream Sequence Collapse
+  Artist: Magdalena Gornik
+  Genre: Postrock
+  Links: https://magdalena.bandcamp.com/album/dream-sequence-collapse
+  Notes: Gitarrenlastiger, instrumentaler Postrock. Name Your Price.
+  Rating: 11
+  Release: 03.08.2018
+  Reviews:
+
+- Album: 'MYTH II: A Need To Survive'
+  Artist: The Eye of Time
+  Genre: Ambient / Neoklassik
+  Links: https://theeyeoftime.bandcamp.com/album/myth-ii-a-need-to-survive
+  Notes: Zweiter Teil der geplanten "Myth"-Triologie des Franzosen Marc Euvrie.
+  Rating:
+  Release: 03.08.2018
+  Reviews:
+
+- Album: Sea Orm Liventure
+  Artist: Ángel Ontalva & VESPERO
+  Genre: Psychedelic / Spacerock
+  Links: https://music.vespero.ru/album/sea-orm-liventure
+  Notes: Live-Versionen, größtenteils mit den Tracks vom Carta Marina Alnum. War mal
+    die Bonus-CD der Carta Marina Deluxe Edition
+  Rating: 12
+  Release: 03.08.2018
+  Reviews:
+
+- Album: Every Nothing
+  Artist: Tides Of Man
+  Genre: Postrock
+  Links: https://tidesofman.bandcamp.com/album/every-nothing
+  Notes: Verträumter instrumentaler Postrock.
+  Rating:
+  Release: 03.08.2018
+  Reviews:
+
+- Album: To Kill to Live to Kill
+  Artist: Manticora
+  Genre: Powermetal / Progmetal
+  Links: https://vicisolumrecords.com/album/to-kill-to-live-to-kill
   Notes:
   Rating:
+  Release: 03.08.2018
+  Reviews:
+
+- Album: At the Burial Vault
+  Artist: Central Park
+  Genre: Prog
   Links: https://www.centralpark-band.de/
+  Notes:
+  Rating:
+  Release: 03.08.2018
   Reviews: https://www.betreutesproggen.de/2018/07/central-park-at-the-burial-vault/
 
-- Artist: Opus of a Machine
-  Album: Stray Fire
-  Release: 03.08.2018
+- Album: Stray Fire
+  Artist: Opus of a Machine
   Genre: Prog / Progmetal
+  Links: https://opusofamachine.bandcamp.com/album/stray-fire
   Notes:
   Rating:
-  Links: https://opusofamachine.bandcamp.com/album/stray-fire
+  Release: 03.08.2018
   Reviews:
 
-- Artist: Reese Alexander
-  Album: The Digression Theory
+- Album: OBLIVION
+  Artist: Gespenst
+  Genre: Postrock
+  Links: https://gespenst.bandcamp.com/album/oblivion
+  Notes: Instrumentaler Postrock / Postmetal aus Malaysia.
+  Rating: 9
   Release: 04.08.2018
+  Reviews:
+
+- Album: The Universal Mirth
+  Artist: Encircled
+  Genre: Postrock / Art-Pop
+  Links: https://encircled.bandcamp.com/album/the-universal-mirth
+  Notes: Etwas eigentümliche Postrock / Artpop Mischung aus Schottland.
+  Rating:
+  Release: 04.08.2018
+  Reviews:
+
+- Album: The Digression Theory
+  Artist: Reese Alexander
   Genre: Progmetal
+  Links: https://reesealexander.bandcamp.com/
   Notes: Zweiteiliges Progmetal-Konzeptalbum.
   Rating:
-  Links: https://reesealexander.bandcamp.com/
+  Release: 04.08.2018
   Reviews:
 
-- Artist: Bend The Sky
-  Album: Expanse
-  Release: 13.08.2018
+- Album: Uzupis
+  Artist: Empusae
+  Genre: Post-Industrial
+  Links:
+  - https://empusae.bandcamp.com/track/uzupis
+  - https://facebook.com/empusaemusic
+  Notes: An interpretation of Sieben's song Uzupis, from Lietuva EP (2015). vgl. https:sieben.bandcamp.com/album/lietuva-ep-2015
+  Rating:
+  Release: 05.08.2018
+  Reviews:
+
+- Album: Worldview
+  Artist: Infatuation
+  Genre: Ambient / Drone
+  Links: https://infatuation.bandcamp.com/album/worldview
+  Notes: Ruhiges, leicht verstörend trippiges Ambient Drone Album.
+  Rating:
+  Release: 05.08.2018
+  Reviews:
+
+- Album: Different Shapes Other Colours
+  Artist: Wilfried Hanrath
+  Genre: Experimental Ambient Jazz
+  Links: https://wilfriedhanrath.bandcamp.com/album/different-shapes-other-colours-by-wilfried-hanrath
+  Notes: Ziemlich experimenteller ambient Jazz, eher etwas für unerschrockene Hörer.
+    Name Your Price.
+  Rating:
+  Release: 05.08.2018
+  Reviews:
+
+- Album: Vanity Project
+  Artist: inFictions
+  Genre: Prog
+  Links: https://infictions.bandcamp.com/album/vanity-project
+  Notes:
+  Rating:
+  Release: 06.08.2018
+  Reviews:
+
+- Album: GOD III - Holy Spirit
+  Artist: GOD
+  Genre: Progmetal
+  Links: https://godelrigna.bandcamp.com/album/god-iii-holy-spirit
+  Notes:
+  Rating:
+  Release: 07.08.2018
+  Reviews:
+
+- Album: Waiting Room
+  Artist: Pray for Sound
+  Genre: Postrock
+  Links: https://music.prayforsound.com/album/waiting-room
+  Notes: Ruhiger Soundscape-Postrock.
+  Rating:
+  Release: 10.08.2018
+  Reviews:
+
+- Album: Ghost Sleep
+  Artist: Delta Sleep
+  Genre: Mathrock / Alternative
+  Links: https://deltasleep.bandcamp.com/album/ghost-city
+  Notes:
+  Rating:
+  Release: 10.08.2018
+  Reviews:
+
+- Album: The Rules Have Changed
+  Artist: 3.2
+  Genre: Prog
+  Links: http://www.robertberry.com/
+  Notes:
+  Rating:
+  Release: 10.08.2018
+  Reviews: http://www.babyblaue-seiten.de/album_17511.html
+
+- Album: Banker's Hill
+  Artist: El Ten Eleven
+  Genre: Instrumental Rock / Math Rock / Post Rock
+  Links: https://fakerecordlabel.bandcamp.com/album/bankers-hill
+  Notes:
+  Rating:
+  Release: 10.08.2018
+  Reviews:
+
+- Album: Expanse
+  Artist: Bend The Sky
   Genre: Instrumentaler Progmetal
+  Links: https://bendthesky.bandcamp.com/album/expanse
   Notes: Name Your Price
   Rating:
-  Links: https://bendthesky.bandcamp.com/album/expanse
+  Release: 13.08.2018
   Reviews:
 
-- Artist: Wilfried Hanrath
-  Album: Different Shapes Other Colours
-  Release: 05.08.2018
-  Genre: Experimental Ambient Jazz
-  Notes: Ziemlich experimenteller ambient Jazz, eher etwas für unerschrockene Hörer. Name Your Price.
-  Rating:
-  Links: https://wilfriedhanrath.bandcamp.com/album/different-shapes-other-colours-by-wilfried-hanrath
-  Reviews:
-
-- Artist: Meuban
-  Album: AFAR
-  Release: 15.08.2018
-  Genre: Psychedelic Stoner Postrock ( Intsrumental )
-  Notes: Instrumentaler Stonerrock aus Israel.
-  Rating:
-  Links: https://meuban.bandcamp.com/album/afar
-  Reviews:
-
-- Artist: The Necks
-  Album: Body
-  Release: 14.08.2018
+- Album: Body
+  Artist: The Necks
   Genre: Avant-Jazz / Experimental Ambient Jazz
+  Links: https://thenecksau.bandcamp.com/album/body
   Notes: Knapp einstündiges experimentelles Jazzstück.
   Rating:
-  Links: https://thenecksau.bandcamp.com/album/body
+  Release: 14.08.2018
   Reviews:
 
-- Artist: Sophie Hunger
-  Album: Molecules
-  Release: 31.08.2018
-  Genre: Artpop
-  Notes: "Sal sagt: Viel mehr als nur eine Duett-Partnerin für Steven W.: Gerade höre ich das neue
-          Sophie-Hunger-Album vorab und bin so angetan wie schon lange nicht mehr bei ihr.
-          Der retrofuturistische Elektro-Sound steht ihr gut.
-          Ihre fragile Stimme bietet einen guten Kontrast zum Gewummer, Gefiepe und Gedröhne der elektronischen Sounds.
-          Eine Reise ins Jahr 1981, als der New Wave noch nicht kommerziell war."
+- Album: AFAR
+  Artist: Meuban
+  Genre: Psychedelic Stoner Postrock ( Intsrumental )
+  Links: https://meuban.bandcamp.com/album/afar
+  Notes: Instrumentaler Stonerrock aus Israel.
   Rating:
-  Links: https://www.sophiehunger.com/home
+  Release: 15.08.2018
   Reviews:
 
-- Artist: Autumn Creatures
-  Album: Funeral Garden
+- Album: Lowlands
+  Artist: Zevious
+  Genre: Avant-Metal
+  Links: https://zevious.bandcamp.com/album/lowlands
+  Notes: Schräger Genremix aus Math, Postrock, Jazz, Doom...
+  Rating:
+  Release: 17.08.2018
+  Reviews:
+
+- Album: ReInvention
+  Artist: Gryphon
+  Genre: Prog
+  Links: http://www.thegryphonpages.com/
+  Notes:
+  Rating:
+  Release: 17.08.2018
+  Reviews: http://www.babyblaue-seiten.de/album_17554.html
+
+- Album: Triumvirate
+  Artist: TRIO
+  Genre: Instrumentaler Progmetal
+  Links: https://triotheband.bandcamp.com/album/triumvirate
+  Notes:
+  Rating:
+  Release: 17.08.2018
+  Reviews:
+
+- Album: The Fold
+  Artist: Karcius
+  Genre: Prog
+  Links: http://www.karcius.com/
+  Notes:
+  Rating:
   Release: 18.08.2018
-  Genre: Postmetal
-  Notes: Atmosphärischer Metal. Schwere Riffs und Streichorchester begleiten eine von einer weiblichen Stimme eingesprochene Geschichte.
+  Reviews: https://www.betreutesproggen.de/2018/08/karcius-the-fold/
+
+- Album: Voyeur aus dem Off
+  Artist: N-1
+  Genre: Krautrock / Improv
+  Links: https://nminus1.bandcamp.com/album/voyeur-aus-dem-off
+  Notes:
   Rating:
-  Links: https://autumncreatures.bandcamp.com/album/funeral-garden
+  Release: 18.08.2018
   Reviews:
 
-- Artist: The Dark Third
-  Album: Even As the Light Grows
-  Release: 19.08.2018
+- Album: 'Fragments: Disclosure'
+  Artist: So Far As I Know
+  Genre: Instrumental Worldprog / Postrock
+  Links: https://sofarasiknow.bandcamp.com/album/fragments-disclosure
+  Notes: Ganz wunderbares Instrumentalrockalbum. Name Your Price
+  Rating:
+  Release: 18.08.2018
+  Reviews:
+
+- Album: Funeral Garden
+  Artist: Autumn Creatures
+  Genre: Postmetal
+  Links: https://autumncreatures.bandcamp.com/album/funeral-garden
+  Notes: Atmosphärischer Metal. Schwere Riffs und Streichorchester begleiten eine
+    von einer weiblichen Stimme eingesprochene Geschichte.
+  Rating:
+  Release: 18.08.2018
+  Reviews:
+
+- Album: Even As the Light Grows
+  Artist: The Dark Third
   Genre: Artrock
+  Links: https://thedarkthird.bandcamp.com/album/even-as-the-light-grows
   Notes: Name Your Price.
   Rating:
-  Links: https://thedarkthird.bandcamp.com/album/even-as-the-light-grows
+  Release: 19.08.2018
   Reviews:
 
-- Artist: Ancestors
-  Album: Suspended in Reflections
-  Release: 24.08.2018
+- Album: Upon All The Living And The Dead
+  Artist: OAKSENHAM
   Genre: Prog
-  Notes:
-  Rating:
-  Links: https://ancestorsla.bandcamp.com/album/suspended-in-reflections
-  Reviews: https://www.betreutesproggen.de/2018/08/ancestors-suspended-in-reflections/
-
-- Artist: Viriditas
-  Album: Red Mars
-  Release: 23.08.2018
-  Genre:
-  Notes: Gefälliger Prog mit männlichem und weiblichen Vocals.
-  Rating:
-  Links: https://viriditasmusic.bandcamp.com/album/red-mars
-  Reviews:
-
-- Artist: Steve Hughes
-  Album: Holding Onto Normal
-  Release: 29.08.2018
-  Genre: Artrock / EDM
-  Notes:
-  Rating:
-  Links: https://stevehughes.bandcamp.com/album/holding-onto-normal
-  Reviews:
-
-- Artist: Elizabeth the last
-  Album: Elizabeth the last
-  Release: 24.08.2018
-  Genre: Postrock
-  Notes: Instrumentaler Postrock aus deutschen Landen. Name Your Price.
-  Rating:
-  Links: https://elizabeththelast.bandcamp.com/album/elizabeth-the-last
-  Reviews:
-
-- Artist: Napier's Bones
-  Album: Monuments
-  Release: 24.08.2018
-  Genre: Prog
-  Notes: Klassischer Prog aus England.
-  Rating:
-  Links: https://napiersbones.bandcamp.com/album/monuments
-  Reviews:
-
-- Artist: OAKSENHAM
-  Album: Upon All The Living And The Dead
-  Release: 20.08.2018
-  Genre: Prog
+  Links: https://oaksenham.bandcamp.com/releases
   Notes: Reich instrumentierter Prog aus Armenien. Free Download.
   Rating:
-  Links: https://oaksenham.bandcamp.com/releases
+  Release: 20.08.2018
   Reviews:
 
-- Artist: Gothik Serpent
-  Album: Usurper
-  Release: 20.08.2018
+- Album: Usurper
+  Artist: Gothik Serpent
   Genre: Prog
+  Links: https://gothikserpent.bandcamp.com/album/usurper
   Notes: Prog aus Singapur.
   Rating:
-  Links: https://gothikserpent.bandcamp.com/album/usurper
+  Release: 20.08.2018
   Reviews:
 
-- Artist: TRIO
-  Album: Triumvirate
-  Release: 17.08.2018
-  Genre: Instrumentaler Progmetal
-  Notes:
+- Album: Red Mars
+  Artist: Viriditas
+  Genre:
+  Links: https://viriditasmusic.bandcamp.com/album/red-mars
+  Notes: Gefälliger Prog mit männlichem und weiblichen Vocals.
   Rating:
-  Links: https://triotheband.bandcamp.com/album/triumvirate
+  Release: 23.08.2018
   Reviews:
 
-- Artist: Glasir
-  Album: New Dark Age
-  Release: 31.08.2018
-  Genre: Postrock
-  Notes:
+- Album: The Courage to Be
+  Artist: Lux Terminus
+  Genre: Progmetal Fusion
+  Links:
+  - https://luxterminus.bandcamp.com/releases
+  - https://www.facebook.com/LuxTerminus/
+  Notes: Klavierlastiger Progmetal. Ein Track mit Gastsängerin Anneke van Giersbergen
   Rating:
-  Links: https://glasir.bandcamp.com/album/new-dark-age
+  Release: 24.08.2018
   Reviews:
 
-- Artist: Lazleitt
-  Album: On The Brink
-  Release: 31.08.2018
+- Album: Suspended in Reflections
+  Artist: Ancestors
   Genre: Prog
+  Links: https://ancestorsla.bandcamp.com/album/suspended-in-reflections
   Notes:
   Rating:
+  Release: 24.08.2018
+  Reviews: https://www.betreutesproggen.de/2018/08/ancestors-suspended-in-reflections/
+
+- Album: Elizabeth the last
+  Artist: Elizabeth the last
+  Genre: Postrock
+  Links: https://elizabeththelast.bandcamp.com/album/elizabeth-the-last
+  Notes: Instrumentaler Postrock aus deutschen Landen. Name Your Price.
+  Rating:
+  Release: 24.08.2018
+  Reviews:
+
+- Album: Monuments
+  Artist: Napier's Bones
+  Genre: Prog
+  Links: https://napiersbones.bandcamp.com/album/monuments
+  Notes: Klassischer Prog aus England.
+  Rating:
+  Release: 24.08.2018
+  Reviews:
+
+- Album: Desde la Oscuridad
+  Artist: R-U Kaiser
+  Genre: Prog / Spaceprog
+  Links:
+  - https://r-ukaiser.bandcamp.com/track/desde-la-oscuridad
+  - http://www.r-ukaiser.cl/
+  Notes: Symphonischer Prog aus Chile
+  Rating:
+  Release: 25.08.2018
+  Reviews:
+
+- Album: An Gorta Mór
+  Artist: ifsounds
+  Genre: Prog
+  Links: https://ifsounds.bandcamp.com/album/an-gorta-m-r
+  Notes: Prog-Konzeptalbum aus Italien über die Hungersnot in Irland
+  Rating:
+  Release: 27.08.2018
+  Reviews:
+
+- Album: Holding Onto Normal
+  Artist: Steve Hughes
+  Genre: Artrock / EDM
+  Links: https://stevehughes.bandcamp.com/album/holding-onto-normal
+  Notes:
+  Rating:
+  Release: 29.08.2018
+  Reviews:
+
+- Album: The Way to Us
+  Artist: Echoes of Giants
+  Genre: Prog
+  Links: https://echoesofgiants.bandcamp.com/album/the-way-to-us
+  Notes:
+  Rating:
+  Release: 30.08.2018
+  Reviews:
+
+- Album: Dissolution
+  Artist: The Pineapple Thief
+  Genre: Prog
+  Links: http://pineapplethief.com/
+  Notes:
+  Rating:
+  Release: 31.08.2018
+  Reviews: https://www.betreutesproggen.de/2018/08/the-pineapple-thief-dissolution/
+
+- Album: 'KIN: Original Motion Picture Soundtrack'
+  Artist: Mogwai
+  Genre: Postrock / Ambient
+  Links: http://www.mogwai.co.uk/
+  Notes: Neuer Soundtrack von den schottischen Postrockern
+  Rating:
+  Release: 31.08.2018
+  Reviews:
+
+- Album: Molecules
+  Artist: Sophie Hunger
+  Genre: Artpop
+  Links: https://www.sophiehunger.com/home
+  Notes: 'Sal sagt: Viel mehr als nur eine Duett-Partnerin für Steven W.: Gerade höre
+    ich das neue Sophie-Hunger-Album vorab und bin so angetan wie schon lange nicht
+    mehr bei ihr. Der retrofuturistische Elektro-Sound steht ihr gut. Ihre fragile
+    Stimme bietet einen guten Kontrast zum Gewummer, Gefiepe und Gedröhne der elektronischen
+    Sounds. Eine Reise ins Jahr 1981, als der New Wave noch nicht kommerziell war.'
+  Rating:
+  Release: 31.08.2018
+  Reviews:
+
+- Album: New Dark Age
+  Artist: Glasir
+  Genre: Postrock
+  Links: https://glasir.bandcamp.com/album/new-dark-age
+  Notes:
+  Rating:
+  Release: 31.08.2018
+  Reviews:
+
+- Album: On The Brink
+  Artist: Lazleitt
+  Genre: Prog
   Links: https://lazleitt.com/
+  Notes:
+  Rating:
+  Release: 31.08.2018
   Reviews:
