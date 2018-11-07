@@ -49,7 +49,7 @@ def do_scrape_spotify(URL):
     def get_release_date(tree):
         rawdate = tree.xpath('//meta[@property="music:release_date"]')[0]
         rawdate = rawdate.attrib["content"]
-        year, day, month = [int(x) for x in rawdate.split("-")]
+        year, month, day = [int(x) for x in rawdate.split("-")]
         return "%02d.%02d.%4d" % (day, month, year)
 
     def get_tags(tree):
